@@ -1,8 +1,5 @@
 <img align="center" alt="Coding" width="1000" src="https://media.licdn.com/dms/image/D4D12AQG3eA2Qr85sJA/article-cover_image-shrink_720_1280/0/1685265615160?e=2147483647&v=beta&t=jYHKSTC6KWmYFEtNCf3GhhybKORkWZ8-atqjJZtc4rw" >
 <h1 align="left">Hi 👋, I'm Darshan U M</h1>
-<center>
-<img align="center" alt="Coding" width="400" style="margin-left: 50%" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM20xdnh3YzB6cTZ4djRqMmlwdDE1NW90YXg5aDNwcXV0dm44NG05YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" >
-</center>
 <p>
 🧑‍🎓 Graduated with Master's in Computer Science at the University of Texas at Arlington. <br><br>
 🧠 I’m currently learning Cloud Technologies and Problem Solving. <br><br>
